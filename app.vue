@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <h1>Barebone Nuxt project by csdas</h1>
   </div>
 </template>
